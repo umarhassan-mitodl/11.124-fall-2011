@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Education Policy"
+    ]
+  ],
+  "legacy_uid": "6eabc925-8bee-146e-0179-3c94653f9c50",
+  "instructors": {
+    "content": [
+      "0ae0e3c9-1964-5a37-b9bb-91bd4d3df77f",
+      "1b0bf3c9-ca7e-d0d2-0ed8-b473d29ec497",
+      "13ab94e1-3d60-ebf9-e1bd-3b0642f1640a",
+      "5eb1991d-85cb-9bcd-f060-1aadf5eb49cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "04005480-1cf2-8114-b443-97f79433d0b6",
+    "website": "11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011"
+  },
+  "course_title": "Introduction to Education: Looking Forward and Looking Back on Education",
+  "course_description": "  \nAn introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.124",
+  "course_image_thumbnail": {
+    "content": "191775d9-3d75-33c6-6ca1-65221c410efa",
+    "website": "11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "7d0f2ae5-eedf-48fe-8054-08350d285971",
+  "site_short_id": "11.124-fall-2011",
+  "site_url_path": "courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011",
+  "title": "Course Metadata"
+}
