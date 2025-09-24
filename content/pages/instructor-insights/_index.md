@@ -13,7 +13,7 @@ uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 
 This page focuses on the course 11.124 *Introduction to Education: Looking Forward and Looking Back on Education* as it was taught in Fall 2011 by Professor Erik Klopfer. Most content on this page also applies to the course [11.125 *Introduction to Education: Understanding and Evaluating Education*](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009).
 
-This course is an introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide. This course is required for the [Scheller Teacher Education Program (STEP)](https://education.mit.edu/) at MIT, through which students can earn a teaching license.
+This course is an introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide. This course is required for the {{% resource_link "2b4c399c-845c-43f7-96ac-39ec994a9f71" "Scheller Teacher Education Program (STEP)" %}} at MIT, through which students can earn a teaching license.
 
 ## Course Outcomes
 
@@ -68,8 +68,8 @@ None
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
 - CI-H ![](/images/educator/icon-question-cih.png)
-- [HASS Concentration](http://web.mit.edu/hassreq/concentrations.html): Education
-- [STEP Sequence](https://education.mit.edu/course/)
+- {{% resource_link "67aff246-b8f5-4ded-bcd9-91d80274210f" "HASS Concentration" %}}: Education
+- {{% resource_link "095da8cf-3f0f-42c0-900c-ffdde2f96946" "STEP Sequence" %}}
 
 ### Offered
 
@@ -98,7 +98,7 @@ Varies
 
 ### Enrollment Cap
 
-Student interest in the [Scheller Teacher Education Program (STEP)](https://education.mit.edu/), including 11.124, has grown significantly in the past decade alongside increasing interest in education and social issues among the overall MIT student population. For 11.124 in particular, enrollment has surged, with 60-70 students trying to enroll in the Fall 2012 offering. A decade earlier, the course instructors had to advertise extensively to gather a class of 20 students. The class is capped at 25 students due to CI-H limitations. Students are selected based on interest in education, interest in the full STEP program, and seniority.
+Student interest in the {{% resource_link "2b4c399c-845c-43f7-96ac-39ec994a9f71" "Scheller Teacher Education Program (STEP)" %}}, including 11.124, has grown significantly in the past decade alongside increasing interest in education and social issues among the overall MIT student population. For 11.124 in particular, enrollment has surged, with 60-70 students trying to enroll in the Fall 2012 offering. A decade earlier, the course instructors had to advertise extensively to gather a class of 20 students. The class is capped at 25 students due to CI-H limitations. Students are selected based on interest in education, interest in the full STEP program, and seniority.
 
 ### Ideal Class Size
 
