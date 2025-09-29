@@ -5,6 +5,8 @@ description: This resource contains information related to technology in educati
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/cde51dcc19a48556a22db3d259a55ac5_MIT11_124F11_tech_poster.pdf
 file_size: 84541
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

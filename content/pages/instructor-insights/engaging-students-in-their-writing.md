@@ -3,6 +3,8 @@ content_type: page
 description: 'This page describes strategies used to engage students in their writing
   in the class 11.124: Introduction to Education: Looking Forward and Looking Back
   on Education.'
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ We tried to construct {{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "wr
 Use of Peer Review
 ------------------
 
-For every writing assignment, students were required to anonymously review another student’s paper online through {{% resource_link "06f2dedd-d3cd-44aa-a386-c3d7642c4cb5" "Moodle" %}}. The process of peer reviewing was really beneficial for both the reviewee and the reviewer.
+For every writing assignment, students were required to anonymously review another student’s paper online through [Moodle](https://moodle.org/). The process of peer reviewing was really beneficial for both the reviewee and the reviewer.
 
 As reviewees, this process meant more feedback and a more diverse audience for their work. The course instructors graded the papers and provided feedback, but a lot of students also wanted to see what other students thought of their work. When instructors are solely in charge of grading, I think students often think, "I'm just going to write what I think the teacher wants to hear me say." But when students are writing beyond a classroom setting, they’re not typically writing for an audience of one; they're writing for a broader audience. Incorporating peer review forced the students to think, "I need to write for everybody in the class because any of my classmates could be giving me feedback." This changed the students’ perspectives as they were writing.
 

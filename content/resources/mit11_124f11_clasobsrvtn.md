@@ -4,6 +4,8 @@ description: This resource contains information related to classroom observation
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/afd602efb2811f884d7ac5e486021193_MIT11_124F11_clasobsrvtn.pdf
 file_size: 62254
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

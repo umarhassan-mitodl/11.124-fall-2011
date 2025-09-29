@@ -3,6 +3,8 @@ content_type: page
 description: 'This page contains information about how course instructors applied
   a constructivist approach in the class 11.124: Introduction to Education: Looking
   Forward and Looking Back on Education.'
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

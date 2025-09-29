@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains information about the fourth week of the course,
   in particular math and science education and the Straw Towers activity. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Math & Science Education
@@ -39,6 +41,6 @@ Assignments
 Readings
 --------
 
-*   \[Learn\] = {{% resource_link "d3e4dbe7-9ec3-451f-bd7b-a9f53f3fc479" "Chapter 4: How Children Learn" %}} and {{% resource_link "78b7fd2b-252e-4040-83ae-21795cb35054" "Chapter 6: The Design of Learning Environments" %}}.
-*   Polman, Joseph L., and Roy D. Pea. "{{% resource_link "0567b8c6-6d0a-46df-96dc-f31be29a3980" "Transformative Communication as a Cultural Tool for Guided Inquiry" %}}." _Science Education_ 85, no. 3 (2001): 223–38.
+*   \[Learn\] = [Chapter 4: How Children Learn](http://www.nap.edu/openbook.php?record_id=9853&page=79) and [Chapter 6: The Design of Learning Environments](http://www.nap.edu/openbook.php?record_id=9853&page=129).
+*   Polman, Joseph L., and Roy D. Pea. "[Transformative Communication as a Cultural Tool for Guided Inquiry](http://dx.doi.org/10.1002/sce.1007)." _Science Education_ 85, no. 3 (2001): 223–38.
 *   \[Schooling\] = Chapter 1 summary.

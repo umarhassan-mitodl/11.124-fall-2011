@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information about the sixth week of the course,
   including physics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Math & Science Education
@@ -21,7 +23,7 @@ Topics
 Readings
 --------
 
-*   \[Learn\] = {{% resource_link "c2f1b9e4-37cb-4db8-a5e3-346638100733" "Chapter 2: How Experts Differ from Novices" %}}.
+*   \[Learn\] = [Chapter 2: How Experts Differ from Novices](http://www.nap.edu/openbook.php?record_id=9853&page=31).
 *   \[Schooling\] = Chapter 2.
 
 Assignments

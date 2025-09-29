@@ -3,6 +3,8 @@ content_type: page
 description: This page contains thoughts from Prof. Klopfer about the advantages and
   challenges of teaching an education course for students with strong backgrounds
   in math and science.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

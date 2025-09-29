@@ -5,6 +5,8 @@ description: This resource contains information about straw towers and learning 
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/c0526d5c5a1ab52fd6e95ee25646969b_MIT11_124F11_sttrs_smry.pdf
 file_size: 138214
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -3,6 +3,8 @@ content_type: page
 description: 'This page contains information about how course instructors built discussion
   through online and in-class activities in the class 11.124: Introduction to Education:
   Looking Forward and Looking Back on Education.'
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ In this video, Professor Eric Klopfer discusses the current events assignment fr
 The Chapter Readings Assignment
 -------------------------------
 
-Similar to the current events assignment, the chapter readings assignment ({{% resource_link 1a1d94ad-c888-cdd4-c19c-07d897e2e45c "PDF" %}}) required groups of 2-3 students to each read one chapter of a selected book and post a summary to a {{% resource_link "06f2dedd-d3cd-44aa-a386-c3d7642c4cb5" "Moodle wiki" %}}. Other students were then expected to read the chapter summary and engage in a conversation around it. In the subsequent class, the student presenters facilitated a discussion that built upon the online conversation. The groups of 2-3 students cycled through so that every student had the opportunity to summarize a chapter and jointly lead an in-class discussion. Over the course of the semester, an online summary of the whole book was built chapter-by-chapter on the Wiki. We did not require that students read the whole book; however, the students did need to read the summary for a sense of the book’s important issues so they could engage in conversations about the book’s themes. As with the current events assignment, the in-class component took roughly 30 minutes per week, or about one-ninth of class time.
+Similar to the current events assignment, the chapter readings assignment ({{% resource_link 1a1d94ad-c888-cdd4-c19c-07d897e2e45c "PDF" %}}) required groups of 2-3 students to each read one chapter of a selected book and post a summary to a [Moodle wiki](https://moodle.org/). Other students were then expected to read the chapter summary and engage in a conversation around it. In the subsequent class, the student presenters facilitated a discussion that built upon the online conversation. The groups of 2-3 students cycled through so that every student had the opportunity to summarize a chapter and jointly lead an in-class discussion. Over the course of the semester, an online summary of the whole book was built chapter-by-chapter on the Wiki. We did not require that students read the whole book; however, the students did need to read the summary for a sense of the book’s important issues so they could engage in conversations about the book’s themes. As with the current events assignment, the in-class component took roughly 30 minutes per week, or about one-ninth of class time.
 
 Each year when I choose the books for the chapter readings, I like to have one that brings in a historical context and one that brings in a current context. It’s a matter of thinking about things that are timely. I like to vary the books every few years, so I may switch to a new book after I’ve heard different students’ perspectives on a book’s themes for a couple years.
 

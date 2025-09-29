@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/42630a4574548283f28ff47a9cc99bbd_11-124_classroom-1.png
 file_size: 87777
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

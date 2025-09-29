@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/7135f23f736b13311acdf8ee50ba818e_MIT11_124F11_teaching_students.srt
 file_size: 3332
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

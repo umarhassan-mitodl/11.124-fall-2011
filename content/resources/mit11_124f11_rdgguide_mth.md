@@ -5,6 +5,8 @@ description: This resource contains information related to reading guidelines fo
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/4ce41579d6084335ac718445b3814b6f_MIT11_124F11_rdgguide_mth.pdf
 file_size: 109029
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
