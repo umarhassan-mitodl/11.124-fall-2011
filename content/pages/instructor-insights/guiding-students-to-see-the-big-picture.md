@@ -2,8 +2,6 @@
 content_type: page
 description: "This page contains Prof. Klopfer\u2019s description of how he helped\
   \ his 11.124 students understand how all the components of the course fit together."
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

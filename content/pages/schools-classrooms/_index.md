@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section provides information on the first unit of the course: schools
   and classrooms.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Schools & Classrooms

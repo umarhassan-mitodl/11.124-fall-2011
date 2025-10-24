@@ -4,8 +4,6 @@ description: This resource contains information regarding building straw towers.
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/ce276e6661050bc276a2c4264866d8fa_MIT11_124F11_strawpres.pdf
 file_size: 69053
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

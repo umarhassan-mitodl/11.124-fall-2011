@@ -3,8 +3,6 @@ content_type: page
 description: 'This page describes strategies used to engage students in their writing
   in the class 11.124: Introduction to Education: Looking Forward and Looking Back
   on Education.'
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information about the sixth week of the course,
   including physics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Math & Science Education

@@ -4,8 +4,6 @@ description: This resource contains information related to math games type hando
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/3d283d1f82cd794de064b20a2dc70095_MIT11_124F11_mhgs_tps_hdt.pdf
 file_size: 156479
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains information about the fourth week of the course,
   in particular math and science education and the Straw Towers activity. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Math & Science Education

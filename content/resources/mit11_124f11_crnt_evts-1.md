@@ -4,8 +4,6 @@ description: This resource contains information related to current events.
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/f7ca8dc82e3f304544a1cc372afc7191_MIT11_124F11_Crnt_evts.pdf
 file_size: 124142
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
