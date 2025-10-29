@@ -19,19 +19,19 @@ uid: dc30c26c-645c-e811-84ea-4300abda3428
 
 - Produce a 10 minute online experience in groups of 3–4, with a roughly even mix of instruction/content and practice/activity. You can use (assemble) existing materials or make from scratch, but the final product should be unique. This should target a topic for the class that one of you is observing.
 - Some examples of things you might use
-    - [Khan Academy](http://www.khanacademy.org/)
-    - [MIT BLOSSOMS](http://blossoms.mit.edu/)
-    - [*Waker*](http://gambit.mit.edu/loadgame/summer2009/waker/waker_playgame.php)
+    - {{% resource_link "cb19adcf-be2d-4a7a-898d-a10549ea8399" "Khan Academy" %}}
+    - {{% resource_link "795df105-f2f9-4fdd-a746-3c00fe0257f4" "MIT BLOSSOMS" %}}
+    - {{% resource_link "68a58f6b-b186-4964-be8a-723417457cd2" "*Waker*" %}}
     - [MIT OpenCourseWare Highlights for High School](/high-school/)
-    - [PhET](http://phet.colorado.edu/)
+    - {{% resource_link "c2eeb6ec-9852-49eb-8601-5bbd59966307" "PhET" %}}
 
 ## Readings
 
-- \[Learn\] = [Chapter 3: Learning and Transfer](http://www.nap.edu/openbook.php?record_id=9853&page=51) and [Chapter 9: Technology to Support Learning](http://www.nap.edu/openbook.php?record_id=9853&page=206)
+- \[Learn\] = {{% resource_link "a4e3adb4-26ba-499d-b1e4-737b44a9c470" "Chapter 3: Learning and Transfer" %}} and {{% resource_link "eebef272-e540-4351-abec-7d3b9e5d0e23" "Chapter 9: Technology to Support Learning" %}}
 - \[Schooling\] = Chapter 3
-- Thompson, Clive. "[How Khan Academy is Changing the Rules of Education](https://www.wired.com/2011/07/ff-khan/)." *Wired*, July 15, 2011.
-- Sparks, Sarah D. "[Lectures are Homework in Schools Following Khan Academy Lead](http://www.edweek.org/ew/articles/2011/09/28/05khan_ep.h31.html)." *Education Week*, September 28, 2011.
-- Roschelle, Jeremy M., et al. "[Changing How and What Children Learn in School with Computer-Based Technologies](http://www.schoolsmovingup.net/cs/smu/view/rs/1398)." *Children and Computer Technology* 10, no. 2 (2000): 76.
+- Thompson, Clive. "{{% resource_link "53793ba0-da72-4de4-9de2-59625dfa0487" "How Khan Academy is Changing the Rules of Education" %}}." *Wired*, July 15, 2011.
+- Sparks, Sarah D. "{{% resource_link "65c06942-6d85-446c-9b5c-5dc37b9a9cf5" "Lectures are Homework in Schools Following Khan Academy Lead" %}}." *Education Week*, September 28, 2011.
+- Roschelle, Jeremy M., et al. "{{% resource_link "dbebdffe-1291-47eb-ad3c-e913896573e7" "Changing How and What Children Learn in School with Computer-Based Technologies" %}}." *Children and Computer Technology* 10, no. 2 (2000): 76.
 - Collins, Alan, and Richard Halverson. *Rethinking Education in the Age of Technology: The Digital Revolution and Schooling in America*. Teachers College Press, 2009. ISBN: 9780807750025.
 
 ## Assignments
