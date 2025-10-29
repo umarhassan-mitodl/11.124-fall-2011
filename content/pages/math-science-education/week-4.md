@@ -39,6 +39,6 @@ Assignments
 Readings
 --------
 
-*   \[Learn\] = [Chapter 4: How Children Learn](http://www.nap.edu/openbook.php?record_id=9853&page=79) and [Chapter 6: The Design of Learning Environments](http://www.nap.edu/openbook.php?record_id=9853&page=129).
-*   Polman, Joseph L., and Roy D. Pea. "[Transformative Communication as a Cultural Tool for Guided Inquiry](http://dx.doi.org/10.1002/sce.1007)." _Science Education_ 85, no. 3 (2001): 223–38.
+*   \[Learn\] = {{% resource_link "4bcfb447-f7e4-45d9-9c40-6c26d73433fa" "Chapter 4: How Children Learn" %}} and {{% resource_link "707d22ed-7808-4107-bf18-b8b3e25df14f" "Chapter 6: The Design of Learning Environments" %}}.
+*   Polman, Joseph L., and Roy D. Pea. "{{% resource_link "50ab95d3-74bd-455b-b5a7-9ee83fda030d" "Transformative Communication as a Cultural Tool for Guided Inquiry" %}}." _Science Education_ 85, no. 3 (2001): 223–38.
 *   \[Schooling\] = Chapter 1 summary.

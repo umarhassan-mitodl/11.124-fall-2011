@@ -47,7 +47,7 @@ Other Activities
 Course Texts
 ------------
 
-\[Learn\] = Committee on Developments in the Science of Learning. [_How People Learn: Brain, Mind, Experience, and School: Expanded Edition_](http://books.nap.edu/catalog.php?record_id=9853). The National Academies Press, 2000. ISBN: 9780309070362.
+\[Learn\] = Committee on Developments in the Science of Learning. {{% resource_link "e1ad238e-16ea-4442-b7b7-1c2f7f0a8398" "_How People Learn: Brain, Mind, Experience, and School: Expanded Edition_" %}}. The National Academies Press, 2000. ISBN: 9780309070362.
 
 \[Schooling\] = Graham, Patricia Albjerg. _Schooling America: How the Public Schools Meet the Nation's Changing Needs_. Oxford University Press, 2005. ISBN: 9780195315844. \[Preview with [Google Books](http://books.google.com/books?id=nqOBNEs2K7gC&pg=PAfrontcover#v=onepage	)\]
 

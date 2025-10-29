@@ -27,7 +27,7 @@ We tried to construct {{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "wr
 Use of Peer Review
 ------------------
 
-For every writing assignment, students were required to anonymously review another student’s paper online through [Moodle](https://moodle.org/). The process of peer reviewing was really beneficial for both the reviewee and the reviewer.
+For every writing assignment, students were required to anonymously review another student’s paper online through {{% resource_link "464be2e7-004d-471a-bdb7-2feeae91af1e" "Moodle" %}}. The process of peer reviewing was really beneficial for both the reviewee and the reviewer.
 
 As reviewees, this process meant more feedback and a more diverse audience for their work. The course instructors graded the papers and provided feedback, but a lot of students also wanted to see what other students thought of their work. When instructors are solely in charge of grading, I think students often think, "I'm just going to write what I think the teacher wants to hear me say." But when students are writing beyond a classroom setting, they’re not typically writing for an audience of one; they're writing for a broader audience. Incorporating peer review forced the students to think, "I need to write for everybody in the class because any of my classmates could be giving me feedback." This changed the students’ perspectives as they were writing.
 
